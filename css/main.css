@@ -50,4 +50,10 @@ main {
   border-radius: 20px;
   color: white;
   font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.write-btn:hover {
+  background-color: rgba(253, 140, 34, 0.8);
 }
